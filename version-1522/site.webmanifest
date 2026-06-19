@@ -1,0 +1,9 @@
+{
+    "name": "国产热播视频精品",
+    "short_name": "国产热播视频精品",
+    "description": "高清视频免费播放平台，国产热播资源一区二区提供国产精选、小众频道及国产在线每日更新指南。",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f3f7fb",
+    "theme_color": "#2563eb"
+}
